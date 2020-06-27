@@ -16,6 +16,7 @@ def main():
             today = date.today() 
             yesterday = today - timedelta(days = 1) 
             print("The current price of %s is: $%s " % (symbol, dict_data["Time Series (Daily)"][str(yesterday)]["4. close"]))
+            print("Stock Quotes retrieved successfully!")
             #print("The current price of %s is: %s" % (symbol,dict_data["Time Series (Daily)"][date.today()]["1. open"]))
         except:
             print("There was an error. Check your symbol and try agin.")
