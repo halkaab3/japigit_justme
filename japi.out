@@ -1,0 +1,21 @@
+Script started on Sat Jun 27 12:49:43 2020
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+[?1034hbash-3.2$ pd5.py[Cpd5.pyypd5.pytpd5.pyhpd5.pyopd5.pynpd5.py pd5.py3pd5.py[1Ppd5.py[1Ppd5.py3pd5.py pd5.py
+Please enter company symbol? aapl
+The current price of aapl is: $353.6300 
+Please enter company symbol? mar
+The current price of mar is: $80.9400 
+Please enter company symbol? tmus
+The current price of tmus is: $105.2000 
+Please enter company symbol? googl
+The current price of googl is: $1362.5400 
+Please enter company symbol? ally
+The current price of ally is: $18.8500 
+Please enter company symbol? quit
+bash-3.2$ exit
+exit
+
+Script done on Sat Jun 27 12:50:43 2020
